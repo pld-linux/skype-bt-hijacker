@@ -1,3 +1,4 @@
+# TODO: Name vs filename
 Summary:	Skype script for making the headset button answer an incoming call
 Summary(pl):	Skrypt Skype'a do odbierania po³±czenia przyciskiem s³uchawek
 Name:		skype_bt_hijacker
