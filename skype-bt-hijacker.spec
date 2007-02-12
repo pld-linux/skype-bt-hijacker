@@ -1,6 +1,6 @@
 # TODO: Name vs filename
 Summary:	Skype script for making the headset button answer an incoming call
-Summary(pl):	Skrypt Skype'a do odbierania po³±czenia przyciskiem s³uchawek
+Summary(pl.UTF-8):   Skrypt Skype'a do odbierania poÅ‚Ä…czenia przyciskiem sÅ‚uchawek
 Name:		skype_bt_hijacker
 Version:	0.1b
 Release:	0.1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Skype script for making the headset button answer an incoming call.
 
-%description -l pl
-Skrypt Skype'a do odbierania po³±czenia przyciskiem s³uchawek.
+%description -l pl.UTF-8
+Skrypt Skype'a do odbierania poÅ‚Ä…czenia przyciskiem sÅ‚uchawek.
 
 %prep
 %setup -q
